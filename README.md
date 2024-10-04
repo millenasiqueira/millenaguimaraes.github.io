@@ -1,2 +1,9 @@
-# millenaguimaraes.github.io
-millenaguimaraes.github.io/portfolio
+# AI Scientist 
+
+
+## Education
+
+##Projects
+- Sentiment Analysis 
+- Prediction 
+
